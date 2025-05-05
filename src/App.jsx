@@ -1,6 +1,6 @@
 import "./App.css";
 import heroes from "./heroes.json";
-import HeroCard from "./hero-card";
+import HeroCard from "./HeroCard";
 
 function App() {
     return (
